@@ -6,5 +6,5 @@ let youtubeURL = "https://youtube.com";
 
 // print() //imprime la pantalla
 // prompt("dame un beso") //pide un string 
-let respuesta = confirm("¿Estas seguro que deseas salir?")
-console.log(respuesta);
+// let respuesta = confirm("¿Estas seguro que deseas salir?")
+// console.log(respuesta);
